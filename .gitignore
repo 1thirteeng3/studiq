@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.idea/
+.vscode/
+data/eixo.json
+data/eixo.json.bak
+data/eixo.json.tmp
+*.log
