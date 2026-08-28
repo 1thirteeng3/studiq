@@ -1,0 +1,94 @@
+{
+  "version": 1,
+  "meta": {
+    "app": "eixo",
+    "metodo": "nos-causais",
+    "createdAt": "2026-08-28T00:00:00.000Z",
+    "updatedAt": "2026-08-28T00:00:00.000Z"
+  },
+  "macroperiods": [
+    {
+      "id": "nucleossintese",
+      "nome": "Nucleossíntese",
+      "enfase": "fisica",
+      "tStart": -13786997974,
+      "tEnd": -4569997974,
+      "nota": "Partição pedagógica do eixo: do Big Bang à véspera da nebulosa solar. Cobre a nucleossíntese primordial e a longa era da nucleossíntese estelar que produz os elementos pesados."
+    },
+    {
+      "id": "formacao-planetaria",
+      "nome": "Formação planetária / química pré-biótica",
+      "nomeCurto": "Formação planetária",
+      "enfase": "fisica",
+      "tStart": -4569997974,
+      "tEnd": -3799997974,
+      "nota": "Da nebulosa solar e da acreção planetária até a janela da química pré-biótica na Terra precoce, antes das primeiras evidências de vida."
+    },
+    {
+      "id": "evolucao-biologica",
+      "nome": "Evolução biológica",
+      "enfase": "fisica",
+      "tStart": -3799997974,
+      "tEnd": -6997974,
+      "nota": "Da origem da vida à ramificação que antecipa o gênero Homo. Ênfase física (entidades, dinâmica, emergências) sobre o tecido biológico."
+    },
+    {
+      "id": "hominizacao",
+      "nome": "Hominização",
+      "enfase": "transicao",
+      "tStart": -6997974,
+      "tEnd": -297974,
+      "nota": "Transição de ênfase: dos hominínios ao Homo sapiens. A grade humana começa a ser pertinente; a grade física permanece necessária."
+    },
+    {
+      "id": "paleolitico",
+      "nome": "Paleolítico",
+      "enfase": "humana",
+      "tStart": -297974,
+      "tEnd": -9974,
+      "nota": "Corte pedagógico: a partir de Homo sapiens, a ênfase humana passa a dominar. Não coincide com o Paleolítico arqueológico amplo (iniciado ~3,3 Ma)."
+    },
+    {
+      "id": "neolitico",
+      "nome": "Neolítico",
+      "enfase": "humana",
+      "tStart": -9974,
+      "tEnd": -3000,
+      "nota": "Sedentarização, agricultura, primeiros aglomerados permanentes. Peso crescente das doze dimensões humanas."
+    },
+    {
+      "id": "antiguidade",
+      "nome": "Antiguidade",
+      "enfase": "humana",
+      "tStart": -3000,
+      "tEnd": 476,
+      "nota": "Da emergência da escrita e dos primeiros Estados até o marco convencional do fim do Império Romano do Ocidente."
+    },
+    {
+      "id": "idade-media",
+      "nome": "Idade Média",
+      "enfase": "humana",
+      "tStart": 476,
+      "tEnd": 1453,
+      "nota": "Marco de abertura: 476. Marco de fecho: 1453 (queda de Constantinopla). Periodização europeia usada como referência de eixo, não como universal."
+    },
+    {
+      "id": "idade-moderna",
+      "nome": "Idade Moderna",
+      "enfase": "humana",
+      "tStart": 1453,
+      "tEnd": 1789,
+      "nota": "Da reconfiguração quinhentista à ruptura revolucionária de 1789."
+    },
+    {
+      "id": "idade-contemporanea",
+      "nome": "Idade Contemporânea",
+      "nomeCurto": "Contemporânea",
+      "enfase": "humana",
+      "tStart": 1789,
+      "tEnd": null,
+      "nota": "De 1789 ao presente. O termo final acompanha o ano corrente."
+    }
+  ],
+  "nodes": []
+}
